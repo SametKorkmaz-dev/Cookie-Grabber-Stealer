@@ -21,9 +21,9 @@ pip install -r requirements.txt
 ```bash
 python CookieStealer.py
 ```
-
-
-
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 🍪Cookies
 What are cookies ?
 Cookies are text files with small pieces of data like a username and password that are used to identify your computer as you use a computer network. Specific cookies known as HTTP cookies are used to identify specific users and improve your web browsing experience.
@@ -45,16 +45,57 @@ The server only sends the cookie when it wants the web browser to save it. If yo
 ☢ This reveals major security breaches in general websites and social networks ! ☢
 
 How to bypass websites with cookies ?
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ ‎ 
+‎ 
+‎ 
+‎ 
+🔐 Security & Awareness
 
+Cookies are widely used for authentication and session management on websites. While they improve user experience by keeping sessions active, they can also become a target for attackers if stolen.
 
+If an unauthorized person gains access to session cookies, they may attempt to impersonate a user without needing their password. This is why protecting your browser, system, and network is important.
 
+🛡 How to Stay Safe
+Never share your browser session or cookies with unknown sources
+Use secure and updated browsers
+Enable two-factor authentication (2FA) where possible
+Avoid running untrusted scripts or tools on your device
+Regularly clear cookies from sensitive accounts
+‎ ‎ ‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+⚖️ Ethical Use & Legal Notice
 
+This project is intended strictly for educational and cybersecurity research purposes only. It should only be used to understand how session management and authentication mechanisms work in a controlled environment.
 
+Any misuse of this project, including unauthorized access to accounts, data theft, or targeting real users, is strictly prohibited and may violate local and international laws.
 
+The developer assumes no responsibility for any misuse or damage caused by this project.
 
-
-
-
+🧪 Recommended Safe Usage
+Use only on your own test environment
+Do not interact with real user accounts or services
+Use sandboxed or virtual machines for experiments
+Focus on learning how to prevent cookie/session attacks
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
 ❗Disclaimer
 Only for educationnal puposes.
 We decline any responsability in case of misuse of this code.
