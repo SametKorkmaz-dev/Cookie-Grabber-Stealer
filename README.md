@@ -49,6 +49,12 @@ How to bypass websites with cookies ?
 
 
 
+
+
+
+
+
+
 ❗Disclaimer
 Only for educationnal puposes.
 We decline any responsability in case of misuse of this code.
